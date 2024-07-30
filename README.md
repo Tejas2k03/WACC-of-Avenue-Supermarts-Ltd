@@ -1,4 +1,4 @@
-# WACC of Avenue Supermarts Ltd
+# Weighted Average Cost of Capital of Avenue Supermarts Ltd
 
 ## 1. Project Objective
 To calculate the Weighted Average Cost of Capital (WACC) for Avenue Supermarts Ltd, commonly known as DMart.
